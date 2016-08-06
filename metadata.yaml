@@ -1,0 +1,35 @@
+_repo: The-Court-of-the-Empress-Josephine_9831
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Perry, Thomas Sergeant
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '3159'
+    url: http://www.gutenberg.org/2009/agents/3159
+creator:
+  author:
+    agent_name: Imbert de Saint-Amand
+    aliases:
+    - Imbert de Saint-Amand, Arthur Leon, baron
+    - Saint-Amand, Imbert de
+    - Imbert de Saint-Amand, Arthur Léon, baron
+    birthdate: 1834
+    deathdate: 1900
+    gutenberg_agent_id: '1431'
+    url: http://www.gutenberg.org/2009/agents/1431
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Josephine, Empress, consort of Napoleon I, Emperor of the French, 1763-1814'
+- GITenberg
+title: The Court of the Empress Josephine
+url: http://www.gutenberg.org/ebooks/9831
